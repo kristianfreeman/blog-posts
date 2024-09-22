@@ -1,4 +1,15 @@
 ## Latest Blog Posts
+- [Domain ranking experiment](https://kristianfreeman.com/domain-ranking-experiment/)
+- [Shopping list – non-toxics](https://kristianfreeman.com/shopping-list-non-toxics/)
+- [Honor the change](https://kristianfreeman.com/honor-the-change/)
+- [Recent developer tool discoveries](https://kristianfreeman.com/recent-developer-tool-discoveries/)
+- [What to do with a newsletter?](https://kristianfreeman.com/what-to-do-with-a-newsletter/)
+- [Digital throwaways, physical keepsakes](https://kristianfreeman.com/digital-throwaways-physical-keepsakes/)
+- [Full-stack development is a superpower](https://kristianfreeman.com/fullstack/)
+- [Replaying Majora's Mask](https://kristianfreeman.com/replaying-majoras-mask/)
+- [Second brain alternative](https://kristianfreeman.com/second-brain-alternative/)
+- [What comes next after simple chat UIs in AI?](https://kristianfreeman.com/tool-calling/)
+## Latest Blog Posts
 - [<title>Domain ranking experiment</title>](<link>https://kristianfreeman.com/domain-ranking-experiment/</link>)
 - [<title>Shopping list – non-toxics</title>](<link>https://kristianfreeman.com/shopping-list-non-toxics/</link>)
 - [<title>Honor the change</title>](<link>https://kristianfreeman.com/honor-the-change/</link>)
