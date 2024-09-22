@@ -1,4 +1,5 @@
 # Latest Blog Posts
+- [Blog RSS auto-backlinks on a GitHub repo](https://kristianfreeman.com/github-backlinks-rss/)
 - [Domain ranking experiment](https://kristianfreeman.com/domain-ranking-experiment/)
 - [Shopping list – non-toxics](https://kristianfreeman.com/shopping-list-non-toxics/)
 - [Honor the change](https://kristianfreeman.com/honor-the-change/)
@@ -8,5 +9,5 @@
 - [Full-stack development is a superpower](https://kristianfreeman.com/fullstack/)
 - [Replaying Majora's Mask](https://kristianfreeman.com/replaying-majoras-mask/)
 - [Second brain alternative](https://kristianfreeman.com/second-brain-alternative/)
-- [What comes next after simple chat UIs in AI?](https://kristianfreeman.com/tool-calling/)
-\n[Why this exists](https://kristianfreeman.com/github-backlinks-rss/)
+
+[Why this exists](https://kristianfreeman.com/github-backlinks-rss/)
