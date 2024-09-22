@@ -38,7 +38,7 @@ jobs:
       id: prepare_markdown
       run: |
         if [ -f posts.md ] && [ -s posts.md ]; then
-          echo '## Latest Blog Posts' > new_content.md
+          echo "# Latest Blog Posts" > new_content.md
           cat posts.md >> new_content.md
           NEW_CONTENT=$(cat new_content.md)
           echo "::set-output name=new_content::$NEW_CONTENT"
@@ -49,10 +49,9 @@ jobs:
     - name: Update README.md
       run: |
         if [ -s new_content.md ]; then
-          # Overwrite README.md with just the latest blog posts content
-          cat new_content.md > README.md
-          rm new_content.md # Clean up the temporary file
-          rm posts.md       # Clean up the posts file
+          rm README.md
+          mv new_content.md README.md
+          rm posts.md
         fi
 
     - uses: stefanzweifel/git-auto-commit-action@v5
