@@ -5,6 +5,11 @@ on:
     # Run every hour
     - cron: '0 * * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/*'
 
 jobs:
   update-readme:
@@ -26,8 +31,8 @@ jobs:
       id: fetch_rss
       run: |
         RSS_URL="https://kristianfreeman.com/feed/?type=rss"
-        curl -s $RSS_URL | xmllint --xpath '//item/link | //item/title' - | \
-        awk 'NR % 2 == 1 {title=$0} NR % 2 == 0 {print "- [" title "](" $0 ")"}' > posts.md
+        curl -s "$RSS_URL" | xmllint --xpath '//item/title | //item/link' - | \
+        awk 'NR % 2 == 1 { title=$0; gsub(/<[^>]+>/, "", title); } NR % 2 == 0 { gsub(/<[^>]+>/, "", $0); print "- [" title "](" $0 ")" }' > posts.md
 
     - name: Prepare Markdown content
       id: prepare_markdown
