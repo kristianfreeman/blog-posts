@@ -9,7 +9,7 @@ on:
     branches:
       - main
     paths:
-      - '.github/workflows/*'
+      - '.github/workflows/*'  # Only run if workflow files change
 
 jobs:
   update-readme:
@@ -49,9 +49,8 @@ jobs:
     - name: Update README.md
       run: |
         if [ -s new_content.md ]; then
-          mv README.md README.md.bak
-          cat new_content.md README.md.bak > README.md
-          rm README.md.bak
+          # Overwrite README.md with just the latest blog posts content
+          cat new_content.md > README.md
           rm new_content.md # Clean up the temporary file
           rm posts.md       # Clean up the posts file
         fi
