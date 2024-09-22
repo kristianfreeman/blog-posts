@@ -40,7 +40,7 @@ jobs:
         if [ -f posts.md ] && [ -s posts.md ]; then
           echo "# Latest Blog Posts" > new_content.md
           cat posts.md >> new_content.md
-          echo "\n[Why this exists](https://kristianfreeman.com/github-backlinks-rss/)" >> new_content.md
+          echo -e "\n[Why this exists](https://kristianfreeman.com/github-backlinks-rss/)" >> new_content.md
           NEW_CONTENT=$(cat new_content.md)
           echo "::set-output name=new_content::$NEW_CONTENT"
         else
