@@ -8,6 +8,9 @@ on:
 
 jobs:
   update-readme:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
 
     steps:
@@ -45,14 +48,4 @@ jobs:
           rm README.md.bak
         fi
 
-    # per https://lannonbr.com/blog/2019-12-09-git-commit-in-actions/
-    - name: setup git config
-      run: |
-        git config user.name "GitHub Actions Bot"
-        git config user.email "<>"
-
-    - name: commit
-      run: |
-        git add .
-        git commit -m "Update"
-        git push origin main
+    - uses: stefanzweifel/git-auto-commit-action@v5
