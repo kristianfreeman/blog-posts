@@ -9,3 +9,4 @@
 - [Replaying Majora's Mask](https://kristianfreeman.com/replaying-majoras-mask/)
 - [Second brain alternative](https://kristianfreeman.com/second-brain-alternative/)
 - [What comes next after simple chat UIs in AI?](https://kristianfreeman.com/tool-calling/)
+[Why this exists](https://kristianfreeman.com/github-backlinks-rss/)
