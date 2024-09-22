@@ -1,0 +1,59 @@
+name: Update README with Blog Posts
+
+on:
+  schedule:
+    # Run every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install required packages
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y curl libxml2-utils
+
+    - name: Fetch RSS feed
+      id: fetch_rss
+      run: |
+        RSS_URL="https://kristianfreeman.com/feed"
+        curl -s $RSS_URL | xmllint --xpath '//item/title | //item/link' - | awk '{ if(NR % 2 == 1) { title=$0 } else { print "- [" title "]("$0")" } }' > posts.md
+
+    - name: Prepare Markdown content
+      id: prepare_markdown
+      run: |
+        if [ -f posts.md ]; then
+          echo '## Latest Blog Posts' > new_content.md
+          cat posts.md >> new_content.md
+          NEW_CONTENT=$(cat new_content.md)
+          echo "::set-output name=new_content::$NEW_CONTENT"
+        else
+          echo "::set-output name=new_content::"
+        fi
+
+    - name: Update README.md
+      run: |
+        if [ -s new_content.md ]; then
+          mv README.md README.md.bak
+          cat new_content.md README.md.bak > README.md
+          rm README.md.bak
+        fi
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "kristian@kristianfreeman.com"
+        git config --local user.name "Kristian Freeman"
+        if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "Update README with latest blog posts"
+            git push origin main
+        else
+            echo "No changes to commit"
+        fi
+
