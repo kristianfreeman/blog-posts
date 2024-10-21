@@ -1,4 +1,5 @@
 # Latest Blog Posts
+- [ShipFast vulnerabilities](https://kristianfreeman.com/shipfast-vulnerabilities/)
 - [The McMaster-Carrification effect](https://kristianfreeman.com/the-mcmaster-carrification-effect/)
 - [Sleepy time tea](https://kristianfreeman.com/sleepy-time-tea/)
 - [Building your own radio network with Liquidsoap](https://kristianfreeman.com/building-your-own-radio-network-with-liquidsoap/)
@@ -8,6 +9,5 @@
 - [Understanding Astro's getStaticPaths function](https://kristianfreeman.com/understanding-astros-getstaticpaths-function/)
 - [Releasing my bearblog Chrome extension](https://kristianfreeman.com/bearblog-chrome-extension/)
 - [How to add Cloudflare Turnstile to your Ruby on Rails application](https://kristianfreeman.com/how-to-add-cloudflare-turnstile-to-your-ruby-on-rails-application/)
-- [The big bearblog syntax highlighting hack](https://kristianfreeman.com/the-big-bearblog-syntax-highlighting-hack/)
 
 [Why this exists](https://kristianfreeman.com/github-backlinks-rss/)
