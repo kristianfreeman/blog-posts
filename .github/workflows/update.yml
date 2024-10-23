@@ -30,7 +30,7 @@ jobs:
     - name: Fetch RSS feed
       id: fetch_rss
       run: |
-        RSS_URL="https://kristianfreeman.com/feed/?type=rss"
+        RSS_URL="https://kristianfreeman.com/rss.xml"
         curl -s "$RSS_URL" | xmllint --xpath '//item/title | //item/link' - | \
         awk 'NR % 2 == 1 { title=$0; gsub(/<[^>]+>/, "", title); } NR % 2 == 0 { gsub(/<[^>]+>/, "", $0); print "- [" title "](" $0 ")" }' > posts.md
 
