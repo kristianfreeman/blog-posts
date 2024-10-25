@@ -11,6 +11,7 @@
 - [Deploying Astro Applications to Cloudflare](https://kristianfreeman.com/deploying-astro-applications-to-cloudflare/)
 - [Digital throwaways, physical keepsakes](https://kristianfreeman.com/digital-throwaways-physical-keepsakes/)
 - [Domain ranking experiment](https://kristianfreeman.com/domain-ranking-experiment/)
+- [Effective indexing](https://kristianfreeman.com/effective-indexing/)
 - [Full-stack development is a superpower](https://kristianfreeman.com/fullstack/)
 - [Blog RSS auto-backlinks on a GitHub repo](https://kristianfreeman.com/github-backlinks-rss/)
 - [Honor the change](https://kristianfreeman.com/honor-the-change/)
