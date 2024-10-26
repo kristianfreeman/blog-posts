@@ -75,6 +75,7 @@
 - [Redirect anything with lilredirector](https://kristianfreeman.com/redirect-anything-with-lilredirector/)
 - [Replaying Majora's Mask](https://kristianfreeman.com/replaying-majoras-mask/)
 - [Retina MacBook Pro](https://kristianfreeman.com/retina-macbook-pro/)
+- [ROMs](https://kristianfreeman.com/roms/)
 - [Rooting the HTC One M8](https://kristianfreeman.com/rooting-one-m8/)
 - [Second brain alternative](https://kristianfreeman.com/second-brain-alternative/)
 - [Second Brain-less](https://kristianfreeman.com/second-brain-less/)
@@ -107,6 +108,7 @@
 - [What to do with a newsletter?](https://kristianfreeman.com/what-to-do-with-a-newsletter/)
 - [How to customize your Windows Terminal with custom themes and color schemes](https://kristianfreeman.com/windows-terminal-colorschemes/)
 - [You Should Learn Vim](https://kristianfreeman.com/you-should-learn-vim/)
+- [YouTube Music](https://kristianfreeman.com/youtube-music/)
 - [ZSH and Octopress](https://kristianfreeman.com/zsh-and-octopress/)
 
 [Why this exists](https://kristianfreeman.com/github-backlinks-rss/)
