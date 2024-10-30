@@ -110,6 +110,7 @@
 - [14 Great VSCode Resources - Dev Setups, Quickstart Videos, Courses, and Deep Dives](https://kristianfreeman.com/vscode/)
 - [What to do with a newsletter?](https://kristianfreeman.com/what-to-do-with-a-newsletter/)
 - [How to customize your Windows Terminal with custom themes and color schemes](https://kristianfreeman.com/windows-terminal-colorschemes/)
+- [Workers Entrypoints](https://kristianfreeman.com/workers-entrypoints/)
 - [You Should Learn Vim](https://kristianfreeman.com/you-should-learn-vim/)
 - [YouTube Music](https://kristianfreeman.com/youtube-music/)
 - [ZSH and Octopress](https://kristianfreeman.com/zsh-and-octopress/)
