@@ -51,6 +51,7 @@
 - [How to quit Vim (in five seconds)](https://kristianfreeman.com/how-to-quit-vim/)
 - [How to update Git in Ubuntu + Windows Subsystem for Linux](https://kristianfreeman.com/how-to-update-git-in-ubuntu-windows-subsystem-for-linux/)
 - [How to use Lucide icons via a CDN](https://kristianfreeman.com/how-to-use-lucide-icons-via-a-cdn/)
+- [How I Record Videos](https://kristianfreeman.com/how-to-video/)
 - [HTTPS For Free](https://kristianfreeman.com/https/)
 - [Human-computer interfaces, where we're at in 2020, and why it matters](https://kristianfreeman.com/human-computer-interfaces/)
 - [IDGAF git commit](https://kristianfreeman.com/idgaf-git-commit/)
