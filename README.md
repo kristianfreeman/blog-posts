@@ -13,6 +13,7 @@
 - [How to set up a new macOS system, using Homebrew and Brewfile](https://kristianfreeman.com/brewfile/)
 - [Building Your Own Radio Network with Liquidsoap](https://kristianfreeman.com/building-your-own-radio-network-with-liquidsoap/)
 - [How to fix the "Cannot Use Import Statement Outside a Module" error in JavaScript](https://kristianfreeman.com/cannot-use-import-statement-outside-a-module-fix/)
+- [Cloudflare Stream](https://kristianfreeman.com/cloudflare-stream/)
 - [An introduction to Cloudflare Workflows](https://kristianfreeman.com/cloudflare-workflows/)
 - [Create a Zellij instance with a useful session name](https://kristianfreeman.com/create-a-zellij-instance-with-a-useful-session-name/)
 - [Creating a custom post list page in Bear](https://kristianfreeman.com/creating-a-custom-post-list-page-in-bear/)
