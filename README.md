@@ -41,6 +41,7 @@
 - [ghissu.es](https://kristianfreeman.com/ghissues/)
 - [Blog RSS auto-backlinks on a GitHub repo](https://kristianfreeman.com/github-backlinks-rss/)
 - [Everything you need to know to start with GraphQL](https://kristianfreeman.com/graphql/)
+- [Get started with 𝕏 AI and Grok](https://kristianfreeman.com/grok-intro/)
 - [Hardcore Ruby](https://kristianfreeman.com/hardcore-ruby/)
 - [Hipchat + Ruby](https://kristianfreeman.com/hipchat_ruby/)
 - [Honor the change](https://kristianfreeman.com/honor-the-change/)
