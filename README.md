@@ -59,6 +59,7 @@
 - [IDGAF git commit](https://kristianfreeman.com/idgaf-git-commit/)
 - [Increasing Lighthouse Score to 100](https://kristianfreeman.com/increasing-lighthouse-score-to-100-how-i-did-it-on-my-blog/)
 - [Building an indexer](https://kristianfreeman.com/indexer/)
+- [Install fonts with Homebrew](https://kristianfreeman.com/install-fonts-with-homebrew/)
 - [What is Jamstack? Exploring what you need to know, and how to get started](https://kristianfreeman.com/jamstack/)
 - [How to capitalize the first letter of a string in JavaScript](https://kristianfreeman.com/javascript-capitalize-first-letter/)
 - [Get an HTML element by class in JavaScript](https://kristianfreeman.com/javascript-get-element-by-class/)
