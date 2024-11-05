@@ -17,6 +17,7 @@
 - [An introduction to Cloudflare Workflows](https://kristianfreeman.com/cloudflare-workflows/)
 - [Create a Zellij instance with a useful session name](https://kristianfreeman.com/create-a-zellij-instance-with-a-useful-session-name/)
 - [Creating a custom post list page in Bear](https://kristianfreeman.com/creating-a-custom-post-list-page-in-bear/)
+- [Effective web clipping with Obsidian](https://kristianfreeman.com/custom-obsidian-clippings/)
 - [Defer Loading CSS with One Line of Code](https://kristianfreeman.com/defer-loading-css-with-one-line-of-code/)
 - [Deploying Astro Applications to Cloudflare](https://kristianfreeman.com/deploying-astro-applications-to-cloudflare/)
 - [Deploying a static Jekyll site](https://kristianfreeman.com/deploying_a_static_site/)
