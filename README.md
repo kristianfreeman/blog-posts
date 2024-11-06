@@ -76,6 +76,7 @@
 - [No-code: why does it matter for developers?](https://kristianfreeman.com/no-code/)
 - [Now Playing Script](https://kristianfreeman.com/now-playing-script/)
 - [nvALT](https://kristianfreeman.com/nvalt/)
+- [Success with Obsidian](https://kristianfreeman.com/obsidian-success/)
 - [Process on new Rails apps](https://kristianfreeman.com/process-on-new-rails-projects/)
 - [Quick review of Zellij](https://kristianfreeman.com/quick-review-of-zellij/)
 - [Using new Rails defaults](https://kristianfreeman.com/rails_defaults/)
