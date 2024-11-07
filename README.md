@@ -71,6 +71,7 @@
 - [M4 Macs](https://kristianfreeman.com/m4-macs/)
 - [Markdown Opinions](https://kristianfreeman.com/markdown-opinions/)
 - [Mavericks](https://kristianfreeman.com/mavericks/)
+- [Message of the Day](https://kristianfreeman.com/motd/)
 - [My Morning Coffee](https://kristianfreeman.com/my-morning-coffee/)
 - [Nginx and Subdomains - My Configuration](https://kristianfreeman.com/nginx-subdomains/)
 - [No-code: why does it matter for developers?](https://kristianfreeman.com/no-code/)
