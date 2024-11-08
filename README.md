@@ -74,6 +74,7 @@
 - [Mavericks](https://kristianfreeman.com/mavericks/)
 - [Message of the Day](https://kristianfreeman.com/motd/)
 - [My Morning Coffee](https://kristianfreeman.com/my-morning-coffee/)
+- [My starter macOS Nix Config](https://kristianfreeman.com/my-starter-macos-nix-config/)
 - [Nginx and Subdomains - My Configuration](https://kristianfreeman.com/nginx-subdomains/)
 - [No-code: why does it matter for developers?](https://kristianfreeman.com/no-code/)
 - [Now Playing Script](https://kristianfreeman.com/now-playing-script/)
