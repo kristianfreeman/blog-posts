@@ -65,6 +65,7 @@
 - [How to capitalize the first letter of a string in JavaScript](https://kristianfreeman.com/javascript-capitalize-first-letter/)
 - [Get an HTML element by class in JavaScript](https://kristianfreeman.com/javascript-get-element-by-class/)
 - [Three quick JavaScript tips you can start using today](https://kristianfreeman.com/javascript-tips-ep-1/)
+- [Just enough Obsidian](https://kristianfreeman.com/just-enough-obsidian/)
 - [Just enough Zustand](https://kristianfreeman.com/just-enough-zustand/)
 - [Live Updating in Development](https://kristianfreeman.com/live-updating-in-files/)
 - [LLMs and voice are really something else](https://kristianfreeman.com/llms-and-voice-are-really-something-else/)
