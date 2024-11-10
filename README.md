@@ -9,6 +9,7 @@
 - [Authenticity and producing content as a Developer Advocate](https://kristianfreeman.com/authenticity-and-producing-content-as-a-developer-advocate/)
 - [Automatic Check-Ins with Tasker](https://kristianfreeman.com/automatic-checkins-with-tasker/)
 - [Releasing my bearblog Chrome extension](https://kristianfreeman.com/bearblog-chrome-extension/)
+- [Beverage Hydration Index](https://kristianfreeman.com/beverage-hydration-index/)
 - [Boxen](https://kristianfreeman.com/boxen/)
 - [How to set up a new macOS system, using Homebrew and Brewfile](https://kristianfreeman.com/brewfile/)
 - [Building Your Own Radio Network with Liquidsoap](https://kristianfreeman.com/building-your-own-radio-network-with-liquidsoap/)
