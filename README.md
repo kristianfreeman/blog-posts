@@ -91,6 +91,7 @@
 - [Retina MacBook Pro](https://kristianfreeman.com/retina-macbook-pro/)
 - [ROMs](https://kristianfreeman.com/roms/)
 - [Rooting the HTC One M8](https://kristianfreeman.com/rooting-one-m8/)
+- [Running a Ruby on Rails Application in Nix](https://kristianfreeman.com/running-a-ruby-on-rails-application-in-nix/)
 - [Second brain alternative](https://kristianfreeman.com/second-brain-alternative/)
 - [Second Brain-less](https://kristianfreeman.com/second-brain-less/)
 - [Everything you need to know to understand Serverless](https://kristianfreeman.com/serverless/)
