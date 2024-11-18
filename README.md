@@ -72,6 +72,7 @@
 - [LLMs and voice are really something else](https://kristianfreeman.com/llms-and-voice-are-really-something-else/)
 - [M4 Macs](https://kristianfreeman.com/m4-macs/)
 - [Markdown Opinions](https://kristianfreeman.com/markdown-opinions/)
+- [Recreating the Matrix Effect](https://kristianfreeman.com/matrix-background/)
 - [Mavericks](https://kristianfreeman.com/mavericks/)
 - [Message of the Day](https://kristianfreeman.com/motd/)
 - [My Morning Coffee](https://kristianfreeman.com/my-morning-coffee/)
