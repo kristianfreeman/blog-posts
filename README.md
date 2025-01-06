@@ -77,6 +77,7 @@
 - [Markdown Opinions](https://kristianfreeman.com/markdown-opinions/)
 - [Recreating the Matrix Effect](https://kristianfreeman.com/matrix-background/)
 - [Mavericks](https://kristianfreeman.com/mavericks/)
+- [Misogi 2025](https://kristianfreeman.com/misogi-2025/)
 - [Message of the Day](https://kristianfreeman.com/motd/)
 - [My Morning Coffee](https://kristianfreeman.com/my-morning-coffee/)
 - [My starter macOS Nix Config](https://kristianfreeman.com/my-starter-macos-nix-config/)
