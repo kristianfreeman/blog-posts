@@ -108,6 +108,7 @@
 - [ShipFast Vulnerabilities](https://kristianfreeman.com/shipfast-vulnerabilities/)
 - [Shopping list of non-toxic products](https://kristianfreeman.com/shopping-list-non-toxics/)
 - [Sleepy Time Tea](https://kristianfreeman.com/sleepy-time-tea/)
+- [Caching Middleware with Deepseek and Workers](https://kristianfreeman.com/smart-ai-caching/)
 - [Solo DevOps](https://kristianfreeman.com/solo-devops/)
 - [Something Simple (In Todo Apps)](https://kristianfreeman.com/something-simple/)
 - [How to Generate Types for a Supabase Project](https://kristianfreeman.com/supabase-generate-types/)
