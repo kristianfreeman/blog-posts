@@ -26,6 +26,7 @@
 - [Deploying a static Jekyll site](https://kristianfreeman.com/deploying_a_static_site/)
 - [Diff on Commit Idea](https://kristianfreeman.com/diff-on-commit-idea/)
 - [Digital throwaways, physical keepsakes](https://kristianfreeman.com/digital-throwaways-physical-keepsakes/)
+- [DIY Error Monitor](https://kristianfreeman.com/diy-error-monitor/)
 - [Domain ranking experiment](https://kristianfreeman.com/domain-ranking-experiment/)
 - [Donor Advised Funds](https://kristianfreeman.com/donor-advised-funds/)
 - [Dotfiles](https://kristianfreeman.com/dotfiles/)
