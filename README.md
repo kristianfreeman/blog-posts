@@ -133,6 +133,7 @@
 - [How to permanently update your shell $PATH](https://kristianfreeman.com/update-shell-path/)
 - [Here's what you need to learn and master Vim, the modal text editor](https://kristianfreeman.com/vim/)
 - [14 Great VSCode Resources - Dev Setups, Quickstart Videos, Courses, and Deep Dives](https://kristianfreeman.com/vscode/)
+- [Programatically generated weather SVGs](https://kristianfreeman.com/weather-svg/)
 - [What to do with a newsletter?](https://kristianfreeman.com/what-to-do-with-a-newsletter/)
 - [How to customize your Windows Terminal with custom themes and color schemes](https://kristianfreeman.com/windows-terminal-colorschemes/)
 - [Workers Entrypoints](https://kristianfreeman.com/workers-entrypoints/)
