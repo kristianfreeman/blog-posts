@@ -63,6 +63,7 @@
 - [HTTPS For Free](https://kristianfreeman.com/https/)
 - [Human-computer interfaces, where we're at in 2020, and why it matters](https://kristianfreeman.com/human-computer-interfaces/)
 - [IDGAF git commit](https://kristianfreeman.com/idgaf-git-commit/)
+- [Image Binding in Workers](https://kristianfreeman.com/image-binding-in-workers/)
 - [Increasing Lighthouse Score to 100](https://kristianfreeman.com/increasing-lighthouse-score-to-100-how-i-did-it-on-my-blog/)
 - [Building an indexer](https://kristianfreeman.com/indexer/)
 - [Install fonts with Homebrew](https://kristianfreeman.com/install-fonts-with-homebrew/)
