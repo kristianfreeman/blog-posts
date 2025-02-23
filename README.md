@@ -96,6 +96,7 @@
 - [Recent developer tool discoveries](https://kristianfreeman.com/recent-developer-tool-discoveries/)
 - [Recommended Icon Libraries](https://kristianfreeman.com/recommended-icon-libraries/)
 - [Recursively transcode FLAC files to MP3](https://kristianfreeman.com/recursively-transcode-flac-to-mp3/)
+- [Redesigning](https://kristianfreeman.com/redesigning/)
 - [Redirect anything with lilredirector](https://kristianfreeman.com/redirect-anything-with-lilredirector/)
 - [Replaying Majora's Mask](https://kristianfreeman.com/replaying-majoras-mask/)
 - [Retina MacBook Pro](https://kristianfreeman.com/retina-macbook-pro/)
