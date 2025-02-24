@@ -2,6 +2,7 @@
 - [2024 Year in Review](https://kristianfreeman.com/2024-year-in-review/)
 - [A great usage of QR codes in the real world](https://kristianfreeman.com/a-great-usage-of-qr-codes-in-the-real-world/)
 - [Address Bar Hacks for Developers](https://kristianfreeman.com/address-bar-hacks/)
+- ["Act as my personal strategic advisor"](https://kristianfreeman.com/advisor-prompt/)
 - [An Introduction to Astro's Content System](https://kristianfreeman.com/an-introduction-to-astros-content-system/)
 - [AndroVM](https://kristianfreeman.com/androvm/)
 - [Array.unwrap](https://kristianfreeman.com/array-unwrap/)
