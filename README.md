@@ -118,7 +118,6 @@
 - [San Marcos TX Life](https://kristianfreeman.com/smtx-life/)
 - [Solo DevOps](https://kristianfreeman.com/solo-devops/)
 - [Something Simple (In Todo Apps)](https://kristianfreeman.com/something-simple/)
-- [Building a cleaning company](https://kristianfreeman.com/stars-and-scrubs/)
 - [How to Generate Types for a Supabase Project](https://kristianfreeman.com/supabase-generate-types/)
 - [A brief guide to understanding Svelte.js](https://kristianfreeman.com/svelte/)
 - [Tailwind Child Selectors](https://kristianfreeman.com/tailwind-child-selectors/)
