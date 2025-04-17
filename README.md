@@ -109,6 +109,7 @@
 - [Second brain alternative](https://kristianfreeman.com/second-brain-alternative/)
 - [Second Brain-less](https://kristianfreeman.com/second-brain-less/)
 - [Everything you need to know to understand Serverless](https://kristianfreeman.com/serverless/)
+- [Setting up TeslaMate with Docker and Proxmox](https://kristianfreeman.com/setting-up-teslamate-with-docker-and-proxmox/)
 - [Shadcn/ui review](https://kristianfreeman.com/shadcnui/)
 - [Building a ShareX-style screenshot workflow on macOS](https://kristianfreeman.com/sharex-mac-alternative/)
 - [ShipFast and the world of starter kits](https://kristianfreeman.com/shipfast-and-the-world-of-starter-kits/)
