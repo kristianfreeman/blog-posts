@@ -39,6 +39,7 @@
 - [Feeling for iPhone](https://kristianfreeman.com/feeling/)
 - [Understanding the FileList API](https://kristianfreeman.com/filelist-api/)
 - [What you need to know to get started with Flutter, the cross-platform app framework](https://kristianfreeman.com/flutter/)
+- [Four Ideas from Extensive Claude Code Usage](https://kristianfreeman.com/four-ideas-from-extensive-claude-code-usage/)
 - [freeCodeCamp Basic CSS Certification - Complete Study Guide (1 Hour Video)](https://kristianfreeman.com/freecodecamp-basic-css-certification/)
 - [freeCodeCamp Basic HTML and HTML5 Certification - Complete Study Guide (1 Hour Video)](https://kristianfreeman.com/freecodecamp-basic-html-certification/)
 - [A thirty-one line test framework](https://kristianfreeman.com/freeman/)
