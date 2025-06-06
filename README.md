@@ -1,4 +1,5 @@
 # Latest Blog Posts
+- [How I Record Videos](https://kristianfreeman.com/how-to-video/)
 - [Four Ideas from Extensive Claude Code Usage](https://kristianfreeman.com/four-ideas-from-extensive-claude-code-usage/)
 - [Setting up TeslaMate with Docker and Proxmox](https://kristianfreeman.com/setting-up-teslamate-with-docker-and-proxmox/)
 - [Rewriting functionality with Claude Code](https://kristianfreeman.com/claude-code-rewrites/)
@@ -33,7 +34,6 @@
 - [Install fonts with Homebrew](https://kristianfreeman.com/install-fonts-with-homebrew/)
 - [Get started with 𝕏 AI and Grok](https://kristianfreeman.com/grok-intro/)
 - [Workers GraphQL Server v2](https://kristianfreeman.com/workers-graphql-server/)
-- [How I Record Videos](https://kristianfreeman.com/how-to-video/)
 - [M4 Macs](https://kristianfreeman.com/m4-macs/)
 - [Tailwind Child Selectors](https://kristianfreeman.com/tailwind-child-selectors/)
 - [Workers Entrypoints](https://kristianfreeman.com/workers-entrypoints/)
